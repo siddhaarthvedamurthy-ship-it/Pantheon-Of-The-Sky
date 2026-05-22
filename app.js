@@ -31,7 +31,7 @@ const CIVS = {
         role: 'Prajapati — Lord of Progeny, Creator',
         domains: ['Creation','Time','Knowledge'],
         img: 'Brahma.png',
-        myth: 'Brahma, the four-faced Creator, is the Swayambhu, meaning he created himself. Sectatarian Puranic texts make him appear as an old, frail, man and mock him constantly. This was done to promote their own gods above Brahma. There are claims about him being seperate from Brahman-Brahma is the caricature of Brahman that the sectatarian texts use to mock the Upanishadic creator that is more than a 1000 years older than them.',
+        myth: 'Brahma is the Puranic caricature of the ultimate reality Brahman. The Puranas are relatively new hindu texts that are often sectatarian and political. The Puranas, wanting to promote their god above the Upanishadic Brahman, used a four-headed old man Brahma to bully him so that people will stop worshipping him! This was quite normal in the History of Hinduism.',
         stats: { vehicle: 'Hamsa (Swan)', consort: 'Sarasvati', weapon: 'Brahmastra', lifespan: '311.04 Trillion years' }
       },
       {
